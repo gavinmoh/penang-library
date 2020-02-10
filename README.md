@@ -1,6 +1,6 @@
 # README
 
-An REST API library app built using Rails 6.
+A REST API library app built using Rails 6.
 
 # Features
 * Add, edit, update and delete books
