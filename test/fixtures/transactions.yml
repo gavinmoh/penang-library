@@ -1,0 +1,8 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+t_two:
+  user: patreon
+  book: two
+  checkout_timestamp: 2020-02-10 09:57:58
+  checkin_timestamp: ''
+  due_timestamp: 2020-02-10 09:57:58

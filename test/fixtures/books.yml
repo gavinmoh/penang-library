@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: Harry Potter and the Deathly Hallows
+  author: J. K. Rowling
+  published_year: 2007
+  serial_number: 054501225
+  genre: Fantasy
+
+two:
+  title: A Scanner Darkly
+  author: Angela Roberts Sr.
+  published_year: 1998
+  serial_number: 7782145168
+  genre: Mystery
+
+three:
+  title: His Dark Materials
+  author: Elodia Romaguera
+  published_year: 2009
+  serial_number: 1132265104
+  genre: Mythopoeia
+
+four:
+  title: Harry Potter and the Chamber of Secrets
+  author: J. K. Rowling
+  published_year: 1998
+  serial_number: 	0747538492
+  genre: Fantasy
